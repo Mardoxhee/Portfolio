@@ -1,0 +1,40 @@
+{
+    "identite":[{
+        "id":1,
+        "Nom":"Luviki",
+        "Postnom":"Ben Tahar",
+        "Prenom":"Mardoxhée",
+        "avatar":"#",
+        "a propos":"...",
+        "email":"MardoxheeLuviki@gmail.com"
+    }],
+
+
+    "Skills":[{
+        "designation":"Html",
+        "logo":"#",
+        "niveau":"70"
+    },
+{
+        "designation":"CSS",
+        "logo":"",
+        "niveau":"70"
+},
+{
+    "designation":"Javascript",
+    "logo":"",
+    "niveau":"50"
+},
+{
+    "designation":"MDB",
+    "logo":"",
+    "niveau":"60"
+},{
+    "designation":"Maquettage",
+    "logo":"",
+    "niveau":""
+},
+ {
+
+ }]
+}
